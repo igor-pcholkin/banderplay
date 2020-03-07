@@ -12,5 +12,5 @@ As credentials for http Authorization use empty login and the password "12345".
 6. start banderplay.py
 
 The app will download necessary metadata files from the Internet and then will start playing. 
-Periodically playing will stop and then you will need to switch to application console to choose code if the next video 
+Periodically playing will stop and then you will need to switch to application console to choose code of the next video 
 fragment to play.
